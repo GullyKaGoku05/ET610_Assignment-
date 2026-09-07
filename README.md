@@ -1,6 +1,6 @@
 # Learning Analytics of Gaze Attention and Story Navigation
-
-> **ET610 — Learning Analytics Assignment**  
+> **Nikhil Kshirsagar | 23B4221**
+> **ET610 Learning Analytics Assignment**  
 > **IIT Bombay | Autumn 2026**
 
 An evidence-based learning analytics study examining **learner gaze attention, question-level dwell behaviour, gaze dispersion, and story-section navigation** using recorded interaction and eye-gaze data.
